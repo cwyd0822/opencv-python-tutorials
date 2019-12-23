@@ -6,3 +6,6 @@ Some tutorials about opencv
 chmod 777 deploy.sh
 deploy
 ```
+
+## OpenCV-Python文档
+[OpenCV](http://opencv.aichenwei.com)
