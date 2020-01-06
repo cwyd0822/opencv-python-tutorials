@@ -24,7 +24,8 @@
 人工智能系统的目的正在演变。在本节中，我们将根据不同类型的人工智能系统的核心用途进行分类。您还将观察这些不同类型的人工智能系统如何向构建更智能的系统迈出了一步。
 
 图1-1列出了不同类型的AI
-![](http://aichenwei.oss-ap-southeast-1.aliyuncs.com/translation/opencv-python-tutorials/1-1.png)
+
+![](http://aichenwei.oss-ap-southeast-1.aliyuncs.com/translation/opencv-python-tutorials/1-1.png?x-oss-process=image/resize,w_300)
 
 **图1-1** *AI的类型*
 
