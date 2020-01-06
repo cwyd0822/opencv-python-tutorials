@@ -25,7 +25,7 @@
 
 图1-1列出了不同类型的AI
 
-![](http://aichenwei.oss-ap-southeast-1.aliyuncs.com/translation/opencv-python-tutorials/1-1.png?x-oss-process=image/resize,w_300)
+![AI的类型](http://aichenwei.oss-ap-southeast-1.aliyuncs.com/translation/opencv-python-tutorials/1-1.png?x-oss-process=image/resize,w_300)
 
 **图1-1** *AI的类型*
 
